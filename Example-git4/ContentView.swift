@@ -19,6 +19,7 @@ struct ContentView: View {
             Text("commit - 1")
             Text("commit - 2")
             Text("after revert trial-1")
+            Text("after revert trial-2")
         }
         .padding()
     }
